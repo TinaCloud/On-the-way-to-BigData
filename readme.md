@@ -5,13 +5,22 @@ https://www.kaggle.com/
 
 http://cos.name/
 
+http://www.robotics.stanford.edu/~ang/group.html
+
 http://bbs.pinggu.org/thread-3034187-1-1.html
+
+## Books to read
+The Elements of Statistical Learning / Trevor Hastie
+
+Introduction to Algorithms / Thomas H. Cormen
+
+Large-Scale Inference / Efron, 2010
 
 ## Jun 2015
 
-Skills: Python, SAS, Markdown, R Markdown, Github
+Skills learned: Python, SAS, Markdown, R Markdown, Github
 
-Online courses took:
+Courses took:
 
 1. Introduction to Computer Science and Programming / John Guttag
 	- [@ MIT Open Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm)
@@ -42,20 +51,22 @@ My first project is about response surface methodology. I am trying to solve a o
 
 I started learning Python, JMP.
 
-In March, I had a telephone interview with Alibaba for a data scientist internship in Shanghai or Hanzhou, China. It failed me. I realized that I could apply for different positions, including traditional statistician and data scientist. For the data scientist position, I have to learn a lot by myself, for example, SQL and Python. The interviewee were interested in the project that I have done.
+In March, I had a telephone interview with Alibaba for a data scientist internship in Shanghai or Hanzhou, China. It failed me. I realized that I could apply for different positions, including traditional statistician and data scientist. For the data scientist position, I have to learn a lot by myself, for example, SQL and Python. The interviewee was interested in the project that I have done.
 
 Online courses took:
 
 1. Statistical learning / Trevor Hastie
 	- [@Stanford Online](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
-	 	
+2. Machine Learning (by Prof. Andrew Ng) in coursera,	 
+ 
 Books read: 
 
 1. Head First Python,
 2. Introduction to linear algebra / Gilbert Strang
 3. Experiments: planning, analysis, and optimization / C.F. Jeff Wu
 4. Linear models in statistics / Alvin C. Rencher
-- 
+5. Statistical Inference / George Casella
+6. SQL必知必会(第3版)
 
 ## Fall 2014
 
@@ -74,8 +85,7 @@ Skills learned: Latex, R and SAS.
 I took online courses:
 
 1. R programming in coursera, 
-2. Machine Learning (by Prof. Andrew Ng) in coursera,
-3. Linear Algebra (by Prof. Gilbert Strang) in MIT open courseware.
+2. Linear Algebra (by Prof. Gilbert Strang) in MIT open courseware.
 
 ## Jun 2014
 I was luckily admitted to the Statistics Department, so I transferred from CHEM to Statistics and started my new career.
