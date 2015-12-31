@@ -1,22 +1,59 @@
-# Road to data
+# Road to Data Scientist
 
 ### Websites to go for learning
-https://www.kaggle.com/
 
-http://cos.name/
+1. https://www.kaggle.com/
 
-http://www.robotics.stanford.edu/~ang/group.html
+2. http://cos.name/
 
-http://bbs.pinggu.org/thread-3034187-1-1.html
+3. http://www.robotics.stanford.edu/~ang/group.html
+
+4. http://bbs.pinggu.org/thread-3034187-1-1.html
+
+5. http://dataunion.org/
 
 ## Books to read
 The Elements of Statistical Learning / Trevor Hastie
 
 Introduction to Algorithms / Thomas H. Cormen
 
+R in a Nutshell
+
+Statistics with R
+
 Large-Scale Inference / Efron, 2010
 
-## Jun 2015
+Credit Risk Scorecards: Developing and Implementing Intelligent Credit Scoring / Jorge Nocedal
+
+## Dec, 2015
+
+Projects: 
+
+Skills learned: practice of machine learning in R.
+
+I started learning Optimization. The books I am reading is:
+
+1. Numerical Optimization / Jorge Nocedal
+2. Convex Optimization / Stephen Boyd
+
+Courses took:
+
+1. Data Analytics I
+2. Regression Analysis
+3. Multivariate Method Analysis
+
+Books read:
+
+1. All of Statistics: A Concise Course in Statistical Inference / Larry Wasserman
+
+2. Applied Multivariate Statistical Analysis / Johnson Wichern
+
+Online lectures:
+
+1. Multivariate Analysis at ISU
+	http://www.public.iastate.edu/~maitra/stat501/lectures.html
+
+## Jun, 2015
 
 Skills learned: Python, SAS, Markdown, R Markdown, Github
 
@@ -33,7 +70,8 @@ Books read:
 
 1. Categrorical Data Analysis / Alan Agresti
 2. How to lie with statistics / Irving Geis
-3. Bayesian methods / Jeff Gill 
+3. Bayesian methods / Jeff Gill
+4. Regression Analysis by Example / Samprit Chatterjee 
 4. 零基础学Python / qiwsir
 	- https://github.com/qiwsir/ITArticles/blob/master/BasicPython/index.md
 5. The little SAS book, fourth edition
@@ -42,10 +80,10 @@ Books read:
 
 This is the 2nd semester in Statistics. I am taking four courses: 
 
-- Experimental Design & Analysis, 
-- Statistical Inference, 
-- Linear Models Theory, 
-- Comunication and collaboration in Statistics. 
+1. Experimental Design & Analysis, 
+2. Statistical Inference, 
+3. Linear Models Theory, 
+4. Comunication and collaboration in Statistics. 
  
 My first project is about response surface methodology. I am trying to solve a optimization problem. The model used is hierarchy variable selection.
 
